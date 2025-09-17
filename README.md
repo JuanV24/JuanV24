@@ -44,5 +44,5 @@
 <div align="center">
   <h2 align="center">📊 Estadísticas</h2>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanV24&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=JuanV24&theme=radical" alt="GitHub Streak Stats"/>
 </div>
