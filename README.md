@@ -44,5 +44,12 @@
 <div align="center">
   <h2 align="center">📊 Estadísticas</h2>
   
-  <img src="https://streak-stats.demolab.com/?user=JuanV24&theme=radical" alt="GitHub Streak Stats"/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JuanV24&show_icons=true&theme=radical&hide_border=true" alt="Juan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanV24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </p>
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=JuanV24&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  </p>
 </div>
